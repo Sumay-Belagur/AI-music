@@ -1,0 +1,34 @@
+body{
+    background-image: url("sound-waves.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2{
+    font-weight: bolder;
+    -webkit-text-stroke: 0.6px white;
+    color: transparent;
+    font-family: 'Bruno Ace SC', cursive;
+}
+
+p{
+    color: white;
+    background-color: transparent;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    background-size: cover;
+    box-shadow: 2px 2px 20px white;
+    width: 95%;
+    border-radius: 15px;
+    -webkit-text-stroke: 0.6px gray;
+    
+}
+
+canvas{
+    margin-top: 30px;
+    border-radius: 5%;
+
+}
